@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "footsteps",
+    "file": "samples/footsteps.mp3.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "bird",
+    "file": "samples/bird,mp3.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "water",
+    "file": "samples/water.mp3.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
