@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "Nicole first sequence ",
+    "loop": "2:1:1",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "1:1:1.0",
+        "pitch": "Ab4",
+        "dur": "1m",
+        "vel": "1"
+      }
+    ]
+  }
+]
